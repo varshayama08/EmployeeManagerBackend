@@ -16,3 +16,5 @@ Mysql data base is configured in "application.properties".
 
 -> Check front end here
 
+https://github.com/varshayama08/EmployeeManagerFrontEnd
+
